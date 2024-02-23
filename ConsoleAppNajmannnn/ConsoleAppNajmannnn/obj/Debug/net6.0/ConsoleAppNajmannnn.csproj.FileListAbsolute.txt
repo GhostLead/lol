@@ -1,0 +1,15 @@
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\bin\Debug\net6.0\ConsoleAppNajmannnn.exe
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\bin\Debug\net6.0\ConsoleAppNajmannnn.deps.json
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\bin\Debug\net6.0\ConsoleAppNajmannnn.runtimeconfig.json
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\bin\Debug\net6.0\ConsoleAppNajmannnn.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\bin\Debug\net6.0\ConsoleAppNajmannnn.pdb
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.csproj.AssemblyReference.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\refint\ConsoleAppNajmannnn.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.pdb
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ConsoleAppNajmannnn.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppNajmannnn\ConsoleAppNajmannnn\obj\Debug\net6.0\ref\ConsoleAppNajmannnn.dll

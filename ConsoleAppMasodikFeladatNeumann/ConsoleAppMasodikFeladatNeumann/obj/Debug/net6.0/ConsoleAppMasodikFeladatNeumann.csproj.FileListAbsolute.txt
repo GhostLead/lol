@@ -1,0 +1,15 @@
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\bin\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.exe
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\bin\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.deps.json
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\bin\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.runtimeconfig.json
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\bin\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\bin\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.pdb
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.csproj.AssemblyReference.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\refint\ConsoleAppMasodikFeladatNeumann.dll
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.pdb
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ConsoleAppMasodikFeladatNeumann.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\Dolgok\ConsoleAppMasodikFeladatNeumann\ConsoleAppMasodikFeladatNeumann\obj\Debug\net6.0\ref\ConsoleAppMasodikFeladatNeumann.dll
